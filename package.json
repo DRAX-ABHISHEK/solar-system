@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "three": "^0.167.0"
+  },
+  "devDependencies": {
+    "vite": "^5.3.5"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "name": "solar-sys",
+  "version": "1.0.0",
+  "description": "Explore the wonders of our Solar System in an immersive 3D experience! Witness the rotation of planets around the Sun and their self-rotation in this interactive web-based application developed using Three.js.",
+  "main": "min.js",
+  "author": "",
+  "license": "ISC"
+}
